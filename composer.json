@@ -1,0 +1,12 @@
+{
+    "name": "denis909/yii2-cascade-loader",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "denis909\\yii\\" : ""
+        },
+        "files": [
+            "bootstrap.php"
+        ]
+    }
+}
